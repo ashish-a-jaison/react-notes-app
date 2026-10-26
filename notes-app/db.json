@@ -1,0 +1,43 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "Team Meeting",
+      "content": "Discuss Q1 roadmap and deadlines.",
+      "color": "yellow",
+      "tags": [
+        "work"
+      ],
+      "archived": false,
+      "stock": 1,
+      "createdAt": "2026-02-10T10:00:00Z",
+      "updatedAt": "2026-02-10T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "React Practice",
+      "content": "Learn Context API and Axios.",
+      "color": "green",
+      "tags": [
+        "learning",
+        "react"
+      ],
+      "archived": false,
+      "stock": 1,
+      "createdAt": "2026-02-11T10:00:00Z",
+      "updatedAt": "2026-02-11T10:00:00Z"
+    },
+    {
+      "id": "L_n-giMHrEw",
+      "title": "ashish",
+      "content": "diniya",
+      "color": "green",
+      "tags": [],
+      "archived": false,
+      "stock": 1,
+      "createdAt": "2026-10-26T04:28:02.929Z",
+      "updatedAt": "2026-10-26T04:28:02.929Z"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
